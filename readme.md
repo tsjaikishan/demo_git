@@ -1,2 +1,2 @@
 # demo
-We are learning
+We are understanding
